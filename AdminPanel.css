@@ -1,0 +1,542 @@
+@media screen and (min-width:1366px){
+    .kutucuk {
+        width: 300px;
+        height: 220px;
+        left: 600px;
+        top:230px;
+        border:1px solid rgb(112, 23, 23);
+        border-radius: 15px;
+        position: relative;
+        background-color: rgb(241, 246, 250);
+    }
+    div {
+        opacity: 0.9;
+    }
+    .kutucukBaslık {
+        width: 181px;
+        top:30px;
+        left:58px;
+        font-size: 30px;
+        position: relative;
+        opacity: 0.7;
+        color:white;
+        border-radius: 5px;
+        background: green;
+    }
+    .giris {
+        top:50px;
+        left: 35px;
+        position: relative;
+        opacity: 0.7;
+    }
+    
+    #kullanici {
+        width: 230px;
+        height: 25px;
+        position: relative;
+        
+    }
+    #sifre {
+        width: 230px;
+        height: 25px;
+        top:5px;
+        position: relative;
+    }
+    .btn {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 190px;
+        border-radius: 5px;
+        position: relative;
+        border:2px solid #ccc;
+    }
+    .btn:hover {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 190px;
+        border-radius: 5px;
+        position: relative;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+    }
+    .bttn {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 22px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn:hover {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 22px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    
+    /*Kayıt Olma Yeri*/
+    .kutuBaslık {
+        width: 140px;
+        font-size: 25px;
+        top:20px;
+        left:53px;
+        color:white;
+        border-radius: 5px;
+        position: relative;
+        background: green;
+        
+    }
+    .kutu {
+        width: 250px;
+        height: 300px;
+        margin: auto;
+        top:230px;
+        border:1px solid white;
+        position: relative;
+        border: 1px solid black;
+        background-color: rgb(241, 246, 250);
+        border-radius: 5px;
+    }
+    
+    #kullanici1 {
+        width: 230px;
+        height: 25px;
+        margin:8px;
+        top:30px;
+        position: relative;
+        
+    }
+    #sifre1 {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    #mail {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    #telefon {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    .bttn1 {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: 163px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn1:hover {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: 163px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn2 {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: -5px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn2:hover {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: -5px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    /**/
+}
+@media screen and (min-width:960px) and (max-width:1365.9px){
+
+    .kutucuk {
+        width: 300px;
+        height: 220px;
+        left:0px;
+        top:230px;
+        margin: auto;
+        border:1px solid rgb(112, 23, 23);
+        border-radius: 15px;
+        position: relative;
+        background-color: rgb(241, 246, 250);
+    }
+    div {
+        opacity: 0.9;
+    }
+    .kutucukBaslık {
+        width: 181px;
+        top:30px;
+        left:58px;
+        font-size: 30px;
+        position: relative;
+        opacity: 0.7;
+        color:white;
+        border-radius: 5px;
+        background: green;
+    }
+    .giris {
+        top:50px;
+        left: 35px;
+        position: relative;
+        opacity: 0.7;
+    }
+    
+    #kullanici {
+        width: 230px;
+        height: 25px;
+        position: relative;
+        
+    }
+    #sifre {
+        width: 230px;
+        height: 25px;
+        top:5px;
+        position: relative;
+    }
+    .btn {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 190px;
+        border-radius: 5px;
+        position: relative;
+        border:2px solid #ccc;
+    }
+    .btn:hover {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 190px;
+        border-radius: 5px;
+        position: relative;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+    }
+    .bttn {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 22px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn:hover {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 22px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    
+    /*Kayıt Olma Yeri*/
+    .kutuBaslık {
+        width: 140px;
+        font-size: 25px;
+        top:20px;
+        left:53px;
+        color:white;
+        border-radius: 5px;
+        position: relative;
+        background: green;
+        
+    }
+    .kutu {
+        width: 250px;
+        height: 300px;
+        margin: auto;
+        top:230px;
+        border:1px solid white;
+        position: relative;
+        border: 1px solid black;
+        background-color: rgb(241, 246, 250);
+        border-radius: 5px;
+    }
+    
+    #kullanici1 {
+        width: 230px;
+        height: 25px;
+        margin:8px;
+        top:30px;
+        position: relative;
+        
+    }
+    #sifre1 {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    #mail {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    #telefon {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    .bttn1 {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: 163px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn1:hover {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: 163px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn2 {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: -5px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn2:hover {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: -5px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    /**/
+}
+@media screen and (min-width:320px) and (max-width:959.9px){
+    .kutucuk {
+        width: 300px;
+        height: 220px;
+        top:230px;
+        margin: auto;
+        border:1px solid rgb(112, 23, 23);
+        border-radius: 15px;
+        position: relative;
+        background-color: rgb(241, 246, 250);
+    }
+    div {
+        opacity: 0.9;
+    }
+    .kutucukBaslık {
+        width: 181px;
+        top:30px;
+        left:58px;
+        font-size: 30px;
+        position: relative;
+        opacity: 0.7;
+        color:white;
+        border-radius: 5px;
+        background: green;
+    }
+    .giris {
+        top:50px;
+        left: 35px;
+        position: relative;
+        opacity: 0.7;
+    }
+    
+    #kullanici {
+        width: 230px;
+        height: 25px;
+        position: relative;
+        
+    }
+    #sifre {
+        width: 230px;
+        height: 25px;
+        top:5px;
+        position: relative;
+    }
+    .btn {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 190px;
+        border-radius: 5px;
+        position: relative;
+        border:2px solid #ccc;
+    }
+    .btn:hover {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 190px;
+        border-radius: 5px;
+        position: relative;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+    }
+    .bttn {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 22px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn:hover {
+        width: 80px;
+        height: 30px;
+        top:60px;
+        left: 22px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    
+    /*Kayıt Olma Yeri*/
+    .kutuBaslık {
+        width: 140px;
+        font-size: 25px;
+        top:20px;
+        left:53px;
+        color:white;
+        border-radius: 5px;
+        position: relative;
+        background: green;
+        
+    }
+    .kutu {
+        width: 250px;
+        height: 300px;
+        margin: auto;
+        top:230px;
+        border:1px solid white;
+        position: relative;
+        border: 1px solid black;
+        background-color: rgb(241, 246, 250);
+        border-radius: 5px;
+    }
+    
+    #kullanici1 {
+        width: 230px;
+        height: 25px;
+        margin:8px;
+        top:30px;
+        position: relative;
+        
+    }
+    #sifre1 {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    #mail {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    #telefon {
+        width: 230px;
+        height: 25px;
+        margin: 8px;
+        top:30px;
+        position: relative;
+    }
+    .bttn1 {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: 163px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn1:hover {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: 163px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn2 {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: -5px;
+        border:2px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+    .bttn2:hover {
+        width: 80px;
+        height: 30px;
+        top:40px;
+        left: -5px;
+        border:1px solid rgb(79, 119, 6);
+        background: rgb(23, 184, 63);
+        color:white;
+        border-radius: 5px;
+        position: relative;
+    }
+    /**/
+}

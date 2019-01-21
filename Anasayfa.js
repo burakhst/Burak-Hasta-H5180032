@@ -7,25 +7,25 @@ setInterval(function () {
         arttir++;
     }
 }, 3000);
-function degistir(counter) {
-    if (counter == 1) {
+function degistir(sayac) {
+    if (sayac == 1) {
         document.getElementById("reklam1").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam1.png'></a>";
-    } else if (counter == 2) {
+    } else if (sayac == 2) {
         document.getElementById("reklam1").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam2.png'></a>";
-    } else if (counter == 3) {
+    } else if (sayac == 3) {
         document.getElementById("reklam1").innerHTML = "<a href='https://www.pubg.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam3.jpg'></a>";
     }
 }
-var arttirr = 1;
+var arttir2 = 1;
 setInterval(function () {
-    degistirr(arttirr);
-    if (arttirr == 3) {
-        arttirr = 1;
+    degistir2(arttir2);
+    if (arttir2 == 3) {
+        arttir2 = 1;
     } else {
-        arttirr++;
+        arttir2++;
     }
 }, 3000);
-function degistirr(sayac) {
+function degistir2(sayac) {
     if (sayac == 1) {
         document.getElementById("reklam2").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam1.png'></a>";
     } else if (sayac == 2) {
@@ -34,40 +34,21 @@ function degistirr(sayac) {
         document.getElementById("reklam2").innerHTML = "<a href='https://www.pubg.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam3.jpg'></a>";
     }
 }
-var arttr = 1;
+var arttir3 = 1;
 setInterval(function () {
-    degistr(arttr);
-    if (arttr == 3) {
-        arttr = 1;
+    degistir3(arttir3);
+    if (arttir3 == 3) {
+        arttir3 = 1;
     } else {
-        arttr++;
+        arttir3++;
     }
 }, 3000);
-function degistr(countr) {
-    if (countr == 1) {
+function degistir3(sayac) {
+    if (sayac == 1) {
         document.getElementById("reklamBir").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam1.png'></a>";
-    } else if (countr == 2) {
+    } else if (sayac == 2) {
         document.getElementById("reklamBir").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam2.png'></a>";
-    } else if (countr == 3) {
+    } else if (sayac == 3) {
         document.getElementById("reklamBir").innerHTML = "<a href='https://www.pubg.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam3.jpg'></a>";
-    }
-}
-
-var artr = 1;
-setInterval(function () {
-    degistrr(artr);
-    if (artr == 3) {
-        artr = 1;
-    } else {
-        artr++;
-    }
-}, 3000);
-function degistrr(countrr) {
-    if (countrr == 1) {
-        document.getElementById("reklamIki").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam1.png'></a>";
-    } else if (countrr == 2) {
-        document.getElementById("reklamIki").innerHTML = "<a href='https://www.norsmt2.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam2.png'></a>";
-    } else if (countrr == 3) {
-        document.getElementById("reklamIki").innerHTML = "<a href='https://www.pubg.com/'><img src='file:///C:/Users/ENSAR%20HASTA/Desktop/Wike%20Up/Foto%C4%9Fraflar/reklam3.jpg'></a>";
     }
 }
